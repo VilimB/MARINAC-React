@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/projekti/fsre_rwa/2020/g8/static/css/main.9be5b1b9.chunk.css",
+    "main.js": "/projekti/fsre_rwa/2020/g8/static/js/main.2f31a0f2.chunk.js",
+    "main.js.map": "/projekti/fsre_rwa/2020/g8/static/js/main.2f31a0f2.chunk.js.map",
+    "runtime-main.js": "/projekti/fsre_rwa/2020/g8/static/js/runtime-main.aedb6031.js",
+    "runtime-main.js.map": "/projekti/fsre_rwa/2020/g8/static/js/runtime-main.aedb6031.js.map",
+    "static/js/2.8c2337af.chunk.js": "/projekti/fsre_rwa/2020/g8/static/js/2.8c2337af.chunk.js",
+    "static/js/2.8c2337af.chunk.js.map": "/projekti/fsre_rwa/2020/g8/static/js/2.8c2337af.chunk.js.map",
+    "static/js/3.fc7b8250.chunk.js": "/projekti/fsre_rwa/2020/g8/static/js/3.fc7b8250.chunk.js",
+    "static/js/3.fc7b8250.chunk.js.map": "/projekti/fsre_rwa/2020/g8/static/js/3.fc7b8250.chunk.js.map",
+    "index.html": "/projekti/fsre_rwa/2020/g8/index.html",
+    "static/css/main.9be5b1b9.chunk.css.map": "/projekti/fsre_rwa/2020/g8/static/css/main.9be5b1b9.chunk.css.map",
+    "static/js/2.8c2337af.chunk.js.LICENSE.txt": "/projekti/fsre_rwa/2020/g8/static/js/2.8c2337af.chunk.js.LICENSE.txt",
+    "static/media/bench.e937f829.jpg": "/projekti/fsre_rwa/2020/g8/static/media/bench.e937f829.jpg",
+    "static/media/bratoslav.c9ea530a.jpg": "/projekti/fsre_rwa/2020/g8/static/media/bratoslav.c9ea530a.jpg",
+    "static/media/bratoslav2.808a6f68.jpg": "/projekti/fsre_rwa/2020/g8/static/media/bratoslav2.808a6f68.jpg",
+    "static/media/font-awesome.css": "/projekti/fsre_rwa/2020/g8/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/klupa.6a2cfa66.jpg": "/projekti/fsre_rwa/2020/g8/static/media/klupa.6a2cfa66.jpg",
+    "static/media/App.css": "/projekti/fsre_rwa/2020/g8/static/media/login1.f2a17683.jpg",
+    "static/media/teretana.8248f5b2.jpg": "/projekti/fsre_rwa/2020/g8/static/media/teretana.8248f5b2.jpg",
+    "static/media/teretana2.e130056e.jpg": "/projekti/fsre_rwa/2020/g8/static/media/teretana2.e130056e.jpg",
+    "static/media/teretana3.cbe750cc.jpg": "/projekti/fsre_rwa/2020/g8/static/media/teretana3.cbe750cc.jpg",
+    "static/media/themify-icons.css": "/projekti/fsre_rwa/2020/g8/static/media/themify.f0fc8c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aedb6031.js",
+    "static/js/2.8c2337af.chunk.js",
+    "static/css/main.9be5b1b9.chunk.css",
+    "static/js/main.2f31a0f2.chunk.js"
+  ]
+}
